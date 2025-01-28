@@ -1,6 +1,3 @@
-Hi 👋 My name is krish soni
-===========================
-
 Web Developer
 -------------
 
