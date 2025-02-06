@@ -3,7 +3,7 @@ Web Developer
 
 Passionate web developer specializing in frontend development with expertise in React.js and JavaScript, crafting dynamic and responsive user interfaces.
 
-* 🌍  I'm based in Ahmedabad-Gujarat-India
+* 🌍  I'm based in Bhavnagar-Gujarat-India
 * ✉️  You can contact me at [sonikrish2248@gmail.com](mailto:sonikrish2248@gmail.com)
 * 🧠  I'm learning Astro (JS) & Tailwind (CSS)
 * 🤝  I'm open to collaborating on research paper implementation and projects
