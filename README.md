@@ -5,7 +5,7 @@ Passionate web developer specializing in frontend development with expertise in 
 
 * 🌍  I'm based in Bhavnagar-Gujarat-India
 * ✉️  You can contact me at [sonikrish2248@gmail.com](mailto:sonikrish2248@gmail.com)
-* 🧠  I'm learning Astro (JS) & Tailwind (CSS)
+* 🧠  I'm learning Astro (JS) & Next.js
 * 🤝  I'm open to collaborating on research paper implementation and projects
 
 ### Skills
