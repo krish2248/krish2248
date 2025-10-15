@@ -1,7 +1,7 @@
 Web Developer
 -------------
 
-Passionate web developer specializing in frontend development with expertise in React.js and JavaScript, crafting dynamic and responsive user interfaces.
+Specializing in frontend development with expertise in React.js and JavaScript, crafting dynamic and responsive user interfaces.
 
 * 🌍  I'm based in Bhavnagar-Gujarat-India
 * 🖥️  See my portfolio at [sonikrish.com](http://sonikrish.com)
