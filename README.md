@@ -1,6 +1,6 @@
 Web Developer
 -------------
-
+  
 Specializing in frontend development with expertise in React.js and JavaScript, crafting dynamic and responsive user interfaces.
   
 * 🌍  I'm based in Bhavnagar-Gujarat-India
