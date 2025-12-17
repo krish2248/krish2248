@@ -2,12 +2,6 @@ Machine Learning Engineer | Research → Production Systems
 -------------
 I design and build end-to-end systems where machine learning models move from research to reliable, scalable production — balancing performance, interpretability, and engineering constraints.
 
-### What I Work On
-- Translating ML research papers into reproducible, deployable systems
-- Feature engineering, model evaluation, and error analysis on real-world data
-- Building data-driven web applications with clear ML boundaries
-- Prototyping ML ideas quickly, then hardening them for production
-
 ### Core Competencies
 
 **Machine Learning & Data**
