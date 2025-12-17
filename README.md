@@ -67,11 +67,6 @@ React · TypeScript · JavaScript · PHP · SQL · Socket.io
 
 
 ### Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krish2248&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://github-readme-stats.vercel.app/api?username=krish2248&show_icons=true&theme=github_dark&hide_border=true)
-
-
 <table>
   <tr>
     <td align="center">
