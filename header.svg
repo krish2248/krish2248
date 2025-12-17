@@ -1,0 +1,57 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title {
+        font: 700 40px 'Segoe UI', Inter, system-ui, -apple-system, sans-serif;
+        fill: #ffffff;
+      }
+      .subtitle {
+        font: 400 20px 'Segoe UI', Inter, system-ui, -apple-system, sans-serif;
+        fill: #c8c8c8;
+      }
+      .divider {
+        stroke: #444;
+        stroke-width: 2;
+      }
+      .icon {
+        stroke: #c8c8c8;
+        stroke-width: 2;
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="260" rx="18" fill="#111111" />
+
+  <!-- ML / Graph Icon -->
+  <g transform="translate(60,48)">
+    <polyline class="icon" points="0,60 20,40 40,50 60,25 80,35" />
+    <circle class="icon" cx="0" cy="60" r="3" />
+    <circle class="icon" cx="20" cy="40" r="3" />
+    <circle class="icon" cx="40" cy="50" r="3" />
+    <circle class="icon" cx="60" cy="25" r="3" />
+    <circle class="icon" cx="80" cy="35" r="3" />
+  </g>
+
+  <!-- Title -->
+  <text x="160" y="90" class="title">
+    Machine Learning Engineer | Research → Production Systems
+  </text>
+
+  <!-- Divider -->
+  <line x1="160" y1="115" x2="1140" y2="115" class="divider" />
+
+  <!-- Description -->
+  <text x="160" y="155" class="subtitle">
+    I design and build end-to-end systems where machine learning models move from
+  </text>
+  <text x="160" y="185" class="subtitle">
+    research to reliable, scalable production — balancing performance,
+  </text>
+  <text x="160" y="215" class="subtitle">
+    interpretability, and engineering constraints.
+  </text>
+</svg>
