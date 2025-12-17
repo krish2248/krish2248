@@ -28,7 +28,7 @@ Focused on building scalable web architectures and applied machine learning. Cur
 </a>
 
 <a href="https://matplotlib.org/" target="_blank" style="margin-right:14px;">
-  <img src="https://cdn.simpleicons.org/matplotlib/ffffff" width="45" height="45" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=white" height="45" alt="Matplotlib" />
 </a>
 
 <a href="https://scikit-learn.org/" target="_blank" style="margin-right:14px;">
@@ -64,8 +64,9 @@ Focused on building scalable web architectures and applied machine learning. Cur
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="margin-right:14px;">
-  <img src="https://cdn.simpleicons.org/css3/ffffff" width="45" height="45" alt="CSS" />
+  <img src="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=white" height="45" alt="CSS3" />
 </a>
+
 
 <a href="https://www.php.net/" target="_blank" style="margin-right:14px;">
   <img src="https://cdn.simpleicons.org/php/ffffff" width="45" height="45" alt="PHP" />
