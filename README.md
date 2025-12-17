@@ -1,4 +1,4 @@
-ML Engineer || 
+ML Engineer |
 Web Developer
 -------------
   
@@ -18,11 +18,11 @@ Focused on building scalable web architectures and applied machine learning. Cur
 <a href="https://www.python.org/" target="_blank" style="margin-right:14px;">
   <img src="https://cdn.simpleicons.org/python/ffffff" width="45" height="45" alt="Python" />
 </a>
-
+|
 <a href="https://pandas.pydata.org/" target="_blank" style="margin-right:14px;">
   <img src="https://cdn.simpleicons.org/pandas/ffffff" width="45" height="45" alt="Pandas" />
 </a>
-
+|
 <a href="https://numpy.org/" target="_blank" style="margin-right:14px;">
   <img src="https://cdn.simpleicons.org/numpy/ffffff" width="45" height="45" alt="NumPy" />
 </a>
