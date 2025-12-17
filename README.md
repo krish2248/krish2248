@@ -1,62 +1,35 @@
-ML Engineer |
-Web Developer
+Machine Learning Engineer | Research → Production Systems
+
 -------------
-  
-Focused on building scalable web architectures and applied machine learning. Currently translating ML research into production-ready systems.
-  
+
+I design and build end-to-end systems where machine learning models move from research to reliable, scalable production — balancing performance, interpretability, and engineering constraints.
+
+### What I Work On
+- Translating ML research papers into reproducible, deployable systems
+- Feature engineering, model evaluation, and error analysis on real-world data
+- Building data-driven web applications with clear ML boundaries
+- Prototyping ML ideas quickly, then hardening them for production
+
 * 🌍  I'm based in Gujarat-India
 * 🖥️  See my portfolio at [sonikrish.com](http://sonikrish.com)
 * ✉️  You can contact me at [sonikrish2248@gmail.com](mailto:sonikrish2248@gmail.com)
 * 🤝  I'm open to collaborating on research paper implementation and projects
 
-### Skills
-<p align="left">
-<a href="https://www.python.org/" target="_blank" style="margin-right:14px;">
-  <img src="https://cdn.simpleicons.org/python/ffffff" width="45" height="45" alt="Python" />
-</a>
-<a href="https://pandas.pydata.org/" target="_blank" style="margin-right:14px;">
-  <img src="https://cdn.simpleicons.org/pandas/ffffff" width="45" height="45" alt="Pandas" />
-</a>
-<a href="https://numpy.org/" target="_blank" style="margin-right:14px;">
-  <img src="https://cdn.simpleicons.org/numpy/ffffff" width="45" height="45" alt="NumPy" />
-</a>
-<a href="https://matplotlib.org/" target="_blank" style="margin-right:14px;">
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=white" height="45" alt="Matplotlib" />
-</a>
-<a href="https://scikit-learn.org/" target="_blank" style="margin-right:14px;">
-  <img src="https://cdn.simpleicons.org/scikitlearn/ffffff" width="45" height="45" alt="Scikit-Learn" />
-</a>
-<a href="https://git-scm.com/" target="_blank" style="margin-right:14px;">
-  <img src="https://cdn.simpleicons.org/git/ffffff" width="45" height="45" alt="Git" />
-</a>
-<a href="https://react.dev/" target="_blank" style="margin-right:14px;">
-  <img src="https://cdn.simpleicons.org/react/ffffff" width="45" height="45" alt="React" />
-</a>
-<a href="https://socket.io/" target="_blank" style="margin-right:14px;">
-  <img src="https://cdn.simpleicons.org/socketdotio/ffffff" width="45" height="45" alt="Socket.io" />
-</a>
-<a href="https://streamlit.io/" target="_blank" style="margin-right:14px;">
-  <img src="https://cdn.simpleicons.org/streamlit/ffffff" width="45" height="45" alt="Streamlit" />
-</a>
-<a href="https://www.w3schools.com/sql/" target="_blank" style="margin-right:14px;">
-  <img src="https://cdn.simpleicons.org/mysql/ffffff" width="45" height="45" alt="SQL" />
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" style="margin-right:14px;">
-  <img src="https://cdn.simpleicons.org/typescript/ffffff" width="45" height="45" alt="TypeScript" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="margin-right:14px;">
-  <img src="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=white" height="45" alt="CSS3" />
-</a>
-<a href="https://www.php.net/" target="_blank" style="margin-right:14px;">
-  <img src="https://cdn.simpleicons.org/php/ffffff" width="45" height="45" alt="PHP" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://cdn.simpleicons.org/javascript/ffffff" width="45" height="45" alt="JavaScript" />
-</a>
-<a href="https://www.notion.so/" target="_blank" style="margin-left:14px;">
-  <img src="https://cdn.simpleicons.org/notion/ffffff" width="45" height="45" alt="Notion" />
-</a>
-</p>
+### Core Competencies
+
+**Machine Learning & Data**
+Python · NumPy · Pandas · Scikit-Learn · PyTorch · Matplotlib
+
+**ML Engineering**
+Model evaluation · Feature pipelines · Experimentation · Research implementation
+
+**Web & Systems**
+React · TypeScript · JavaScript · PHP · SQL · Socket.io
+
+**Tools**
+Git · Streamlit · Notion
+
+I care deeply about correctness, reproducibility, and understanding model failure modes — not just accuracy metrics.
 
 ### Socials
 <p align="left">
@@ -100,3 +73,6 @@ Focused on building scalable web architectures and applied machine learning. Cur
 
 ### Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krish2248&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=krish2248&show_icons=true&theme=github_dark&hide_border=true)
+
