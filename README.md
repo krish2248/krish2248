@@ -1,6 +1,6 @@
-Machine Learning Engineer | Research → Production Systems 
-------------- 
-I design and build end-to-end systems where machine learning models move from research to reliable, scalable production — balancing performance, interpretability, and engineering constraints.
+<p align="center">
+  <img src="./header.svg" alt="Machine Learning Engineer Header" />
+</p>
 
 ### Core Competencies
 
