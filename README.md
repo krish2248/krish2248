@@ -15,79 +15,80 @@ Focused on building scalable web architectures and applied machine learning. Cur
 
 <p align="left">
 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/python" width="36" height="36" />
 </a>
 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pandas-colored.svg" width="36" height="36" alt="Pandas" />
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/pandas" width="36" height="36" />
 </a>
 
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/numpy-colored.svg" width="36" height="36" alt="NumPy" />
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/numpy" width="36" height="36" />
 </a>
 
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/matplotlib-colored.svg" width="36" height="36" alt="Matplotlib" />
+<a href="https://matplotlib.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/matplotlib" width="36" height="36" />
 </a>
 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/scikitlearn-colored.svg" width="36" height="36" alt="Scikit-Learn" />
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/scikitlearn" width="36" height="36" />
 </a>
 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" />
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/pytorch" width="36" height="36" />
 </a>
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/git" width="36" height="36" />
 </a>
 
-<a href="https://react.dev/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+<a href="https://react.dev/" target="_blank">
+  <img src="https://cdn.simpleicons.org/react" width="36" height="36" />
 </a>
 
-<a href="https://socket.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/socketio-colored.svg" width="36" height="36" alt="Socket.io" />
+<a href="https://socket.io/" target="_blank">
+  <img src="https://cdn.simpleicons.org/socketdotio" width="36" height="36" />
 </a>
 
-<a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/streamlit-colored.svg" width="36" height="36" alt="Streamlit" />
+<a href="https://streamlit.io/" target="_blank">
+  <img src="https://cdn.simpleicons.org/streamlit" width="36" height="36" />
 </a>
 
-<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="SQL" />
+<a href="https://www.w3schools.com/sql/" target="_blank">
+  <img src="https://cdn.simpleicons.org/mysql" width="36" height="36" />
 </a>
 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/typescript" width="36" height="36" />
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://cdn.simpleicons.org/css3" width="36" height="36" />
 </a>
 
-<a href="https://www.php.net/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
+<a href="https://www.php.net/" target="_blank">
+  <img src="https://cdn.simpleicons.org/php" width="36" height="36" />
 </a>
 
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+  <img src="https://cdn.simpleicons.org/c" width="36" height="36" />
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML" />
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+  <img src="https://cdn.simpleicons.org/html5" width="36" height="36" />
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://cdn.simpleicons.org/javascript" width="36" height="36" />
 </a>
 
-<a href="https://www.notion.so/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/notion-colored.svg" width="36" height="36" alt="Notion" />
+<a href="https://www.notion.so/" target="_blank">
+  <img src="https://cdn.simpleicons.org/notion" width="36" height="36" />
 </a>
 
 </p>
+
 
 
 
