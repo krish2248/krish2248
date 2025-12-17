@@ -13,8 +13,10 @@ I design and build end-to-end systems where machine learning models move from re
 ### Core Competencies
 **Machine Learning & Data**
 Python · NumPy · Pandas · Scikit-Learn · PyTorch · Matplotlib
+
 **ML Engineering**
 Model evaluation · Feature pipelines · Experimentation · Research implementation
+
 **Web & Systems**
 React · TypeScript · JavaScript · PHP · SQL · Socket.io
 
