@@ -71,3 +71,17 @@ React · TypeScript · JavaScript · PHP · SQL · Socket.io
 
 ![](https://github-readme-stats.vercel.app/api?username=krish2248&show_icons=true&theme=github_dark&hide_border=true)
 
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish2248&theme=github_dark&hide_border=true&layout=compact" />
+    </td>
+    <td width="20"></td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=krish2248&show_icons=true&theme=github_dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+
