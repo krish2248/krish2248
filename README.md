@@ -29,13 +29,7 @@ React · TypeScript · JavaScript · PHP · SQL · Socket.io
   </picture>
 </a>
 <p align="left">
-<a href="https://www.github.com/krish2248" target="_blank" rel="noreferrer" style="margin-right:16px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="45" height="45" alt="GitHub" />
-  </picture>
-</a>
+
 <a href="http://www.instagram.com/notkrish03/" target="_blank" rel="noreferrer" style="margin-right:16px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
