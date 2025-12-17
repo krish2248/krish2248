@@ -1,7 +1,5 @@
 Machine Learning Engineer | Research → Production Systems
-
 -------------
-
 I design and build end-to-end systems where machine learning models move from research to reliable, scalable production — balancing performance, interpretability, and engineering constraints.
 
 ### What I Work On
@@ -13,15 +11,12 @@ I design and build end-to-end systems where machine learning models move from re
 ### Core Competencies
 
 **Machine Learning & Data**
-
 Python · NumPy · Pandas · Scikit-Learn · PyTorch · Matplotlib
 
 **ML Engineering**
-
 Model evaluation · Feature pipelines · Experimentation · Research implementation
 
 **Web & Systems**
-
 React · TypeScript · JavaScript · PHP · SQL · Socket.io
 
 ### Socials
@@ -33,7 +28,6 @@ React · TypeScript · JavaScript · PHP · SQL · Socket.io
     alt="Portfolio"
   />
 </a>
-
 <a href="http://www.instagram.com/notkrish03/" target="_blank" rel="noreferrer" style="margin-right:16px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
@@ -64,7 +58,6 @@ React · TypeScript · JavaScript · PHP · SQL · Socket.io
 </a>
 </p>
 
-
 ### Stats
 <table>
   <tr>
@@ -77,5 +70,3 @@ React · TypeScript · JavaScript · PHP · SQL · Socket.io
     </td>
   </tr>
 </table>
-
-
