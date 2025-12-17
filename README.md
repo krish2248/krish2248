@@ -7,7 +7,6 @@ Focused on building scalable web architectures and applied machine learning. Cur
 * 🌍  I'm based in Gujarat-India
 * 🖥️  See my portfolio at [sonikrish.com](http://sonikrish.com)
 * ✉️  You can contact me at [sonikrish2248@gmail.com](mailto:sonikrish2248@gmail.com)
-* 🧠  I'm learning Neural Network architectures
 * 🤝  I'm open to collaborating on research paper implementation and projects
 
 ### Skills
