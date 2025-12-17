@@ -1,12 +1,13 @@
+ML Engineer
 Web Developer
 -------------
   
-Specializing in frontend development with expertise in React.js and JavaScript, crafting dynamic and responsive user interfaces.
+Focused on building scalable web architectures and applied machine learning. Currently translating ML research into production-ready systems.
   
-* 🌍  I'm based in Bhavnagar-Gujarat-India
+* 🌍  I'm based in Gujarat-India
 * 🖥️  See my portfolio at [sonikrish.com](http://sonikrish.com)
 * ✉️  You can contact me at [sonikrish2248@gmail.com](mailto:sonikrish2248@gmail.com)
-* 🧠  I'm learning Astro (JS) - Framer - Node.js
+* 🧠  I'm learning Neural Network architectures
 * 🤝  I'm open to collaborating on research paper implementation and projects
 
 ### Skills
@@ -20,3 +21,8 @@ Specializing in frontend development with expertise in React.js and JavaScript, 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/krish2248" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/notkrish03/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/krish-soni-460932228/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@sonikrish2248" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=krish2248&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=krish2248&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krish2248&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
