@@ -15,76 +15,76 @@ Focused on building scalable web architectures and applied machine learning. Cur
 
 <p align="left">
 
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/python" width="36" height="36" />
+<a href="https://www.python.org/" target="_blank" style="margin-right:14px;">
+  <img src="https://cdn.simpleicons.org/python/ffffff" width="45" height="45" alt="Python" />
 </a>
 
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/pandas" width="36" height="36" />
+<a href="https://pandas.pydata.org/" target="_blank" style="margin-right:14px;">
+  <img src="https://cdn.simpleicons.org/pandas/ffffff" width="45" height="45" alt="Pandas" />
 </a>
 
-<a href="https://numpy.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/numpy" width="36" height="36" />
+<a href="https://numpy.org/" target="_blank" style="margin-right:14px;">
+  <img src="https://cdn.simpleicons.org/numpy/ffffff" width="45" height="45" alt="NumPy" />
 </a>
 
-<a href="https://matplotlib.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/matplotlib" width="36" height="36" />
+<a href="https://matplotlib.org/" target="_blank" style="margin-right:14px;">
+  <img src="https://cdn.simpleicons.org/matplotlib/ffffff" width="45" height="45" alt="Matplotlib" />
 </a>
 
-<a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/scikitlearn" width="36" height="36" />
+<a href="https://scikit-learn.org/" target="_blank" style="margin-right:14px;">
+  <img src="https://cdn.simpleicons.org/scikitlearn/ffffff" width="45" height="45" alt="Scikit-Learn" />
 </a>
 
-<a href="https://pytorch.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/pytorch" width="36" height="36" />
+<a href="https://pytorch.org/" target="_blank" style="margin-right:14px;">
+  <img src="https://cdn.simpleicons.org/pytorch/ffffff" width="45" height="45" alt="PyTorch" />
 </a>
 
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/git" width="36" height="36" />
+<a href="https://git-scm.com/" target="_blank" style="margin-right:14px;">
+  <img src="https://cdn.simpleicons.org/git/ffffff" width="45" height="45" alt="Git" />
 </a>
 
-<a href="https://react.dev/" target="_blank">
-  <img src="https://cdn.simpleicons.org/react" width="36" height="36" />
+<a href="https://react.dev/" target="_blank" style="margin-right:14px;">
+  <img src="https://cdn.simpleicons.org/react/ffffff" width="45" height="45" alt="React" />
 </a>
 
-<a href="https://socket.io/" target="_blank">
-  <img src="https://cdn.simpleicons.org/socketdotio" width="36" height="36" />
+<a href="https://socket.io/" target="_blank" style="margin-right:14px;">
+  <img src="https://cdn.simpleicons.org/socketdotio/ffffff" width="45" height="45" alt="Socket.io" />
 </a>
 
-<a href="https://streamlit.io/" target="_blank">
-  <img src="https://cdn.simpleicons.org/streamlit" width="36" height="36" />
+<a href="https://streamlit.io/" target="_blank" style="margin-right:14px;">
+  <img src="https://cdn.simpleicons.org/streamlit/ffffff" width="45" height="45" alt="Streamlit" />
 </a>
 
-<a href="https://www.w3schools.com/sql/" target="_blank">
-  <img src="https://cdn.simpleicons.org/mysql" width="36" height="36" />
+<a href="https://www.w3schools.com/sql/" target="_blank" style="margin-right:14px;">
+  <img src="https://cdn.simpleicons.org/mysql/ffffff" width="45" height="45" alt="SQL" />
 </a>
 
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/typescript" width="36" height="36" />
+<a href="https://www.typescriptlang.org/" target="_blank" style="margin-right:14px;">
+  <img src="https://cdn.simpleicons.org/typescript/ffffff" width="45" height="45" alt="TypeScript" />
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://cdn.simpleicons.org/css3" width="36" height="36" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="margin-right:14px;">
+  <img src="https://cdn.simpleicons.org/css3/ffffff" width="45" height="45" alt="CSS" />
 </a>
 
-<a href="https://www.php.net/" target="_blank">
-  <img src="https://cdn.simpleicons.org/php" width="36" height="36" />
+<a href="https://www.php.net/" target="_blank" style="margin-right:14px;">
+  <img src="https://cdn.simpleicons.org/php/ffffff" width="45" height="45" alt="PHP" />
 </a>
 
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-  <img src="https://cdn.simpleicons.org/c" width="36" height="36" />
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" style="margin-right:14px;">
+  <img src="https://cdn.simpleicons.org/c/ffffff" width="45" height="45" alt="C" />
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-  <img src="https://cdn.simpleicons.org/html5" width="36" height="36" />
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" style="margin-right:14px;">
+  <img src="https://cdn.simpleicons.org/html5/ffffff" width="45" height="45" alt="HTML" />
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://cdn.simpleicons.org/javascript" width="36" height="36" />
+  <img src="https://cdn.simpleicons.org/javascript/ffffff" width="45" height="45" alt="JavaScript" />
 </a>
 
-<a href="https://www.notion.so/" target="_blank">
-  <img src="https://cdn.simpleicons.org/notion" width="36" height="36" />
+<a href="https://www.notion.so/" target="_blank" style="margin-left:14px;">
+  <img src="https://cdn.simpleicons.org/notion/ffffff" width="45" height="45" alt="Notion" />
 </a>
 
 </p>
