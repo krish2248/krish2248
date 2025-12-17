@@ -23,12 +23,11 @@ React · TypeScript · JavaScript · PHP · SQL · Socket.io
 ### Socials
 <a href="https://sonikrish.com/" target="_blank" rel="noreferrer" style="margin-right:16px;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/website-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/website.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/website.svg" width="45" height="45" alt="Portfolio Website" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/link-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/link.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/link.svg" width="45" height="45" alt="Portfolio Website" />
   </picture>
 </a>
-
 <p align="left">
 <a href="https://www.github.com/krish2248" target="_blank" rel="noreferrer" style="margin-right:16px;">
   <picture>
