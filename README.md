@@ -10,28 +10,23 @@ I design and build end-to-end systems where machine learning models move from re
 - Building data-driven web applications with clear ML boundaries
 - Prototyping ML ideas quickly, then hardening them for production
 
-* 🌍  I'm based in Gujarat-India
-* 🖥️  See my portfolio at [sonikrish.com](http://sonikrish.com)
-* ✉️  You can contact me at [sonikrish2248@gmail.com](mailto:sonikrish2248@gmail.com)
-* 🤝  I'm open to collaborating on research paper implementation and projects
-
 ### Core Competencies
-
 **Machine Learning & Data**
 Python · NumPy · Pandas · Scikit-Learn · PyTorch · Matplotlib
-
 **ML Engineering**
 Model evaluation · Feature pipelines · Experimentation · Research implementation
-
 **Web & Systems**
 React · TypeScript · JavaScript · PHP · SQL · Socket.io
 
-**Tools**
-Git · Streamlit · Notion
-
-I care deeply about correctness, reproducibility, and understanding model failure modes — not just accuracy metrics.
-
 ### Socials
+<a href="https://sonikrish.com/" target="_blank" rel="noreferrer" style="margin-right:16px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/website-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/website.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/website.svg" width="45" height="45" alt="Portfolio Website" />
+  </picture>
+</a>
+
 <p align="left">
 <a href="https://www.github.com/krish2248" target="_blank" rel="noreferrer" style="margin-right:16px;">
   <picture>
