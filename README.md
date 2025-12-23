@@ -1,4 +1,7 @@
-![MasterHead](image.jpg)
+<p align="center">
+  <img src="/ml image.jpg" alt="Machine Learning Engineer" width="100%">
+</p>
+
 
 
 <p align="center">
