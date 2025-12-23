@@ -1,9 +1,6 @@
 <p align="center">
   <img src="./header.svg" alt="Machine Learning Engineer Header" />
 </p>
-
-[![](https://visitcount.itsvg.in/api?id=krish2248&icon=0&color=3)](https://visitcount.itsvg.in)
-
 ### Core Competencies
 
 **Machine Learning & Data**
