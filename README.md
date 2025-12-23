@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ml image.png" alt="Machine Learning Engineer" width="900"/>
+  <img src="ml image.png" alt="Machine Learning Engineer" width="900" height = "200"/>
 </p>
 
 
