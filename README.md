@@ -2,6 +2,10 @@
 </p>
 ### Core Competencies
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pysolanki&label=Profile%20views&color=0e75b6&style=flat" alt="pysolanki" /> </p>
+
+
+
 **Machine Learning & Data**
 Python · NumPy · Pandas · Scikit-Learn · TenserFlow · Matplotlib
 
