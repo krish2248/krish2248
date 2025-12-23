@@ -5,7 +5,7 @@
 
 ### Core Competencies
 
-**Machine Learning & Data**
+**Machine Learning**
 Python · NumPy · Pandas · Matplotlib · TenserFlow · Seaborn
 
 **Web & Systems**
