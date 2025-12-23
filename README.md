@@ -5,7 +5,7 @@
 ### Core Competencies
 
 **Machine Learning & Data**
-Python · NumPy · Pandas · Scikit-Learn · PyTorch · Matplotlib
+Python · NumPy · Pandas · Scikit-Learn · TenserFlow · Matplotlib
 
 **ML Engineering**
 Model evaluation · Feature pipelines · Experimentation · Research implementation
