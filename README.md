@@ -1,4 +1,4 @@
-<p align="center">
+![MasterHead](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg)<p align="center">
   <img src="./header.svg" alt="Machine Learning Engineer Header" />
 </p>
 ### Core Competencies
