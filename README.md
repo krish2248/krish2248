@@ -5,13 +5,13 @@
 
 ### Core Competencies
 
-**Machine Learning**
+**Machine Learning:**
 Python · NumPy · Pandas · Matplotlib · TensorFlow · Seaborn · Scikit-Learn
 
-**Web & Systems**
+**Web & Systems:**
 React · TypeScript · JavaScript · PHP · SQL · Socket.io
 
-**Tools**
+**Tools:**
 Latex · Notion · Git 
 
 ### Socials
