@@ -2,10 +2,6 @@
 </p>
 ### Core Competencies
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pysolanki&label=Profile%20views&color=0e75b6&style=flat" alt="pysolanki" /> </p>
-
-
-
 **Machine Learning & Data**
 Python · NumPy · Pandas · Scikit-Learn · TenserFlow · Matplotlib
 
@@ -15,6 +11,7 @@ Model evaluation · Feature pipelines · Experimentation · Research implementat
 **Web & Systems**
 React · TypeScript · JavaScript · PHP · SQL · Socket.io
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krish2248i&label=Profile%20views&color=0e75b6&style=flat" alt="krish2248" /> </p>
 ### Socials
 <a href="https://sonikrish.com/" target="_blank" rel="noreferrer" style="margin-right:16px;">
   <img
