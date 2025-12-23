@@ -6,10 +6,13 @@
 ### Core Competencies
 
 **Machine Learning & Data**
-Python · NumPy · Pandas · Scikit-Learn · TenserFlow · Matplotlib · Seaborn
+Python · NumPy · Pandas · Matplotlib · TenserFlow · Seaborn
 
 **Web & Systems**
 React · TypeScript · JavaScript · PHP · SQL · Socket.io
+
+**Tools**
+Latex · Notion · Git 
 
 ### Socials
 <a href="https://sonikrish.com/" target="_blank" rel="noreferrer" style="margin-right:16px;">
