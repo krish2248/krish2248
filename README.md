@@ -1,8 +1,6 @@
 <img src="./header.svg" alt="Machine Learning Engineer Header" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
-
 ### Core Competencies
 
 **Machine Learning:**
