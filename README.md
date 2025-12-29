@@ -53,16 +53,4 @@ Latex · Notion · Git
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krish2248i&label=Profile%20views&color=0e75b6&style=flat" alt="krish2248" /> </p>
 
-### Stats
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish2248&theme=github_dark&hide_border=true&layout=compact" />
-    </td>
-    <td width="20"></td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=krish2248&show_icons=true&theme=github_dark&hide_border=true" />
-    </td>
-  </tr>
-</table>
 
