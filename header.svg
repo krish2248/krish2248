@@ -25,10 +25,10 @@
     </filter>
     <style>
       .name    { font: 700 46px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #ffffff; letter-spacing: -1.5px; }
-      .role    { font: 300 20px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #e2e8f0; letter-spacing: 0.4px; }
-      .stack   { font: 400 13px 'Courier New', Consolas, monospace;              fill: #cbd5e1; letter-spacing: 0.8px; }
-      .tagline { font: 300 15px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #94a3b8; }
-      .codefg  { font: 400 11px 'Courier New', Consolas, monospace;              fill: #1e2d40; }
+      .role    { font: 300 20px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #ffffff; letter-spacing: 0.4px; }
+      .stack   { font: 400 13px 'Courier New', Consolas, monospace;              fill: #ffffff; letter-spacing: 0.8px; }
+      .tagline { font: 300 15px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #e2e8f0; }
+      .codefg  { font: 400 11px 'Courier New', Consolas, monospace;              fill: #7eb8f7; }
     </style>
   </defs>
 
@@ -91,19 +91,14 @@
   <!-- ── Neural Network Visualization ── -->
   <!-- All dim connections -->
   <g stroke="#172032" stroke-width="1.1" opacity="0.9">
-    <!-- input(48,112) → hidden -->
     <line x1="48" y1="112" x2="97" y2="86" /><line x1="48" y1="112" x2="97" y2="116"/>
     <line x1="48" y1="112" x2="97" y2="146"/><line x1="48" y1="112" x2="97" y2="176"/>
-    <!-- input(48,140) → hidden -->
     <line x1="48" y1="140" x2="97" y2="86" /><line x1="48" y1="140" x2="97" y2="116"/>
     <line x1="48" y1="140" x2="97" y2="146"/><line x1="48" y1="140" x2="97" y2="176"/>
-    <!-- input(48,168) → hidden -->
     <line x1="48" y1="168" x2="97" y2="86" /><line x1="48" y1="168" x2="97" y2="116"/>
     <line x1="48" y1="168" x2="97" y2="146"/><line x1="48" y1="168" x2="97" y2="176"/>
-    <!-- hidden → output(146,116) -->
     <line x1="97" y1="86"  x2="146" y2="116"/><line x1="97" y1="116" x2="146" y2="116"/>
     <line x1="97" y1="146" x2="146" y2="116"/><line x1="97" y1="176" x2="146" y2="116"/>
-    <!-- hidden → output(146,164) -->
     <line x1="97" y1="86"  x2="146" y2="164"/><line x1="97" y1="116" x2="146" y2="164"/>
     <line x1="97" y1="146" x2="146" y2="164"/><line x1="97" y1="176" x2="146" y2="164"/>
   </g>
@@ -131,22 +126,13 @@
   <line x1="164" y1="40" x2="164" y2="240" stroke="#1a2a3a" stroke-width="1"/>
 
   <!-- ── Text Content ── -->
-  <!-- Name -->
   <text x="184" y="97" class="name">Krish Soni</text>
-
-  <!-- Role + location -->
   <text x="186" y="130" class="role">AI / ML Engineer  ·  Software Developer  ·  Gujarat, India</text>
-
-  <!-- Gradient divider -->
   <rect x="184" y="150" width="820" height="1" rx="0.5" fill="url(#divGrad)"/>
-
-  <!-- Tech stack -->
   <text x="184" y="182" class="stack">Python · TensorFlow · Scikit-Learn · NumPy · Pandas · Matplotlib · React · TypeScript · Flutter</text>
-
-  <!-- Tagline -->
   <text x="184" y="214" class="tagline">Computer Engineering Graduate · Building ML models and clean UIs · Data Science · Always learning.</text>
 
-  <!-- Faint code snippet bottom-right -->
+  <!-- Code snippet bottom-right -->
   <text x="1148" y="228" class="codefg" text-anchor="end">model.fit(X_train, y_train)</text>
   <text x="1148" y="244" class="codefg" text-anchor="end">acc = model.evaluate(X_test)</text>
   <text x="1148" y="260" class="codefg" text-anchor="end">print(f"Accuracy: {acc:.4f}")</text>
