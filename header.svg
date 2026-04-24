@@ -26,7 +26,7 @@
     <style>
       .name    { font: 700 46px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #ffffff; letter-spacing: -1.5px; }
       .role    { font: 300 20px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #e2e8f0; letter-spacing: 0.4px; }
-      .stack   { font: 400 13px 'Courier New', Consolas, monospace;              fill: #94a3b8; letter-spacing: 0.8px; }
+      .stack   { font: 400 13px 'Courier New', Consolas, monospace;              fill: #cbd5e1; letter-spacing: 0.8px; }
       .tagline { font: 300 15px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #94a3b8; }
       .codefg  { font: 400 11px 'Courier New', Consolas, monospace;              fill: #1e2d40; }
     </style>
