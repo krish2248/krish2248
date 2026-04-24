@@ -46,6 +46,7 @@
 
 **🟢 Data Scientist** — PRM AND COMPANY `June 2025 – Present`
 > Analyzing sales data across regions to drive purchase decisions and optimize product distribution. Delivering statistical analysis on sales trends, promotional scheme success, and product performance. Identified underperforming regions and increased sales by **8%** in struggling areas through targeted product-scheme combinations. Designed competitor-informed data-driven scheme patterns that accelerated sales by **17%**. Delivering actionable insights from historical and quarterly data.
+> Also built the company's **e-commerce website** and a **brand awareness website** for PRM.
 
 **🔷 Software Developer** — IT HUB Software Solutions `Summer 2025`
 > Built a **Real Estate Management System** — user auth, dynamic property listings, EMI calculator, admin panel, and multi-purpose forms. Stack: HTML · CSS · JS · PHP · MySQL · Apache.
