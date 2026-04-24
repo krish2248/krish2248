@@ -1,60 +1,153 @@
 <svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
   <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#080d15"/>
+      <stop offset="100%" stop-color="#0c1628"/>
+    </linearGradient>
+    <linearGradient id="divGrad" x1="175" y1="0" x2="980" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#3b82f6" stop-opacity="1"/>
+      <stop offset="55%"  stop-color="#3b82f6" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="accentBar" x1="0" y1="28" x2="0" y2="252" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#3b82f6" stop-opacity="0"/>
+      <stop offset="35%"  stop-color="#3b82f6" stop-opacity="1"/>
+      <stop offset="65%"  stop-color="#3b82f6" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
     <style>
-      .title {
-        font: 700 36px 'Segoe UI', Inter, system-ui, -apple-system, sans-serif;
-        fill: #ffffff;
-      }
-      .subtitle {
-        font: 400 20px 'Segoe UI', Inter, system-ui, -apple-system, sans-serif;
-        fill: #c8c8c8;
-      }
-      .divider {
-        stroke: #444;
-        stroke-width: 2;
-      }
-      .icon {
-        stroke: #c8c8c8;
-        stroke-width: 2;
-        fill: none;
-        stroke-linecap: round;
-        stroke-linejoin: round;
-      }
+      .name    { font: 700 46px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #f1f5f9; letter-spacing: -1.5px; }
+      .role    { font: 300 20px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #94a3b8; letter-spacing: 0.4px; }
+      .stack   { font: 400 13px 'Courier New', Consolas, monospace;              fill: #334155; letter-spacing: 0.8px; }
+      .tagline { font: 300 15px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #475569; }
+      .codefg  { font: 400 11px 'Courier New', Consolas, monospace;              fill: #1e2d40; }
     </style>
   </defs>
 
   <!-- Background -->
-  <rect width="1200" height="280" rx="18" fill="#111111" />
+  <rect width="1200" height="280" rx="16" fill="url(#bgGrad)"/>
 
-  <!-- ML / Graph Icon -->
-  <g transform="translate(60,56)">
-    <polyline class="icon" points="0,60 20,40 40,50 60,25 80,35" />
-    <circle class="icon" cx="0" cy="60" r="3" />
-    <circle class="icon" cx="20" cy="40" r="3" />
-    <circle class="icon" cx="40" cy="50" r="3" />
-    <circle class="icon" cx="60" cy="25" r="3" />
-    <circle class="icon" cx="80" cy="35" r="3" />
+  <!-- Dot grid — right two-thirds (atmosphere, very faint) -->
+  <g opacity="0.45">
+    <!-- Row 1  y=28 -->
+    <circle cx="420" cy="28" r="0.9" fill="#1e3a5f"/><circle cx="460" cy="28" r="0.9" fill="#1e3a5f"/>
+    <circle cx="500" cy="28" r="0.9" fill="#1e3a5f"/><circle cx="540" cy="28" r="0.9" fill="#1e3a5f"/>
+    <circle cx="580" cy="28" r="0.9" fill="#1e3a5f"/><circle cx="620" cy="28" r="0.9" fill="#1e3a5f"/>
+    <circle cx="660" cy="28" r="0.9" fill="#1e3a5f"/><circle cx="700" cy="28" r="0.9" fill="#1e3a5f"/>
+    <circle cx="740" cy="28" r="0.9" fill="#1e3a5f"/><circle cx="780" cy="28" r="0.9" fill="#1e3a5f"/>
+    <circle cx="820" cy="28" r="0.9" fill="#1e3a5f"/><circle cx="860" cy="28" r="0.9" fill="#1e3a5f"/>
+    <circle cx="900" cy="28" r="0.9" fill="#1e3a5f"/><circle cx="940" cy="28" r="0.9" fill="#1e3a5f"/>
+    <circle cx="980" cy="28" r="0.9" fill="#1e3a5f"/><circle cx="1020" cy="28" r="0.9" fill="#1e3a5f"/>
+    <circle cx="1060" cy="28" r="0.9" fill="#1e3a5f"/><circle cx="1100" cy="28" r="0.9" fill="#1e3a5f"/>
+    <circle cx="1140" cy="28" r="0.9" fill="#1e3a5f"/>
+    <!-- Row 2  y=68 -->
+    <circle cx="420" cy="68" r="0.9" fill="#1e3a5f"/><circle cx="460" cy="68" r="0.9" fill="#1e3a5f"/>
+    <circle cx="500" cy="68" r="0.9" fill="#1e3a5f"/><circle cx="540" cy="68" r="0.9" fill="#1e3a5f"/>
+    <circle cx="580" cy="68" r="0.9" fill="#1e3a5f"/><circle cx="620" cy="68" r="0.9" fill="#1e3a5f"/>
+    <circle cx="660" cy="68" r="0.9" fill="#1e3a5f"/><circle cx="700" cy="68" r="0.9" fill="#1e3a5f"/>
+    <circle cx="740" cy="68" r="0.9" fill="#1e3a5f"/><circle cx="780" cy="68" r="0.9" fill="#1e3a5f"/>
+    <circle cx="820" cy="68" r="0.9" fill="#1e3a5f"/><circle cx="860" cy="68" r="0.9" fill="#1e3a5f"/>
+    <circle cx="900" cy="68" r="0.9" fill="#1e3a5f"/><circle cx="940" cy="68" r="0.9" fill="#1e3a5f"/>
+    <circle cx="980" cy="68" r="0.9" fill="#1e3a5f"/><circle cx="1020" cy="68" r="0.9" fill="#1e3a5f"/>
+    <circle cx="1060" cy="68" r="0.9" fill="#1e3a5f"/><circle cx="1100" cy="68" r="0.9" fill="#1e3a5f"/>
+    <circle cx="1140" cy="68" r="0.9" fill="#1e3a5f"/>
+    <!-- Row 3  y=108 -->
+    <circle cx="420" cy="108" r="0.9" fill="#1e3a5f"/><circle cx="460" cy="108" r="0.9" fill="#1e3a5f"/>
+    <circle cx="500" cy="108" r="0.9" fill="#1e3a5f"/><circle cx="540" cy="108" r="0.9" fill="#1e3a5f"/>
+    <circle cx="580" cy="108" r="0.9" fill="#1e3a5f"/><circle cx="620" cy="108" r="0.9" fill="#1e3a5f"/>
+    <circle cx="660" cy="108" r="0.9" fill="#1e3a5f"/><circle cx="700" cy="108" r="0.9" fill="#1e3a5f"/>
+    <circle cx="740" cy="108" r="0.9" fill="#1e3a5f"/><circle cx="780" cy="108" r="0.9" fill="#1e3a5f"/>
+    <circle cx="820" cy="108" r="0.9" fill="#1e3a5f"/><circle cx="860" cy="108" r="0.9" fill="#1e3a5f"/>
+    <circle cx="900" cy="108" r="0.9" fill="#1e3a5f"/><circle cx="940" cy="108" r="0.9" fill="#1e3a5f"/>
+    <circle cx="980" cy="108" r="0.9" fill="#1e3a5f"/><circle cx="1020" cy="108" r="0.9" fill="#1e3a5f"/>
+    <circle cx="1060" cy="108" r="0.9" fill="#1e3a5f"/><circle cx="1100" cy="108" r="0.9" fill="#1e3a5f"/>
+    <circle cx="1140" cy="108" r="0.9" fill="#1e3a5f"/>
+    <!-- Rows 4-7 (y 148..248) faded further -->
+    <circle cx="420" cy="148" r="0.9" fill="#1e3a5f"/><circle cx="500" cy="148" r="0.9" fill="#1e3a5f"/>
+    <circle cx="580" cy="148" r="0.9" fill="#1e3a5f"/><circle cx="660" cy="148" r="0.9" fill="#1e3a5f"/>
+    <circle cx="740" cy="148" r="0.9" fill="#1e3a5f"/><circle cx="820" cy="148" r="0.9" fill="#1e3a5f"/>
+    <circle cx="900" cy="148" r="0.9" fill="#1e3a5f"/><circle cx="980" cy="148" r="0.9" fill="#1e3a5f"/>
+    <circle cx="1060" cy="148" r="0.9" fill="#1e3a5f"/><circle cx="1140" cy="148" r="0.9" fill="#1e3a5f"/>
+    <circle cx="420" cy="208" r="0.9" fill="#1e3a5f"/><circle cx="540" cy="208" r="0.9" fill="#1e3a5f"/>
+    <circle cx="660" cy="208" r="0.9" fill="#1e3a5f"/><circle cx="780" cy="208" r="0.9" fill="#1e3a5f"/>
+    <circle cx="900" cy="208" r="0.9" fill="#1e3a5f"/><circle cx="1020" cy="208" r="0.9" fill="#1e3a5f"/>
+    <circle cx="1140" cy="208" r="0.9" fill="#1e3a5f"/>
+    <circle cx="460" cy="252" r="0.9" fill="#1e3a5f"/><circle cx="620" cy="252" r="0.9" fill="#1e3a5f"/>
+    <circle cx="780" cy="252" r="0.9" fill="#1e3a5f"/><circle cx="940" cy="252" r="0.9" fill="#1e3a5f"/>
+    <circle cx="1100" cy="252" r="0.9" fill="#1e3a5f"/>
   </g>
 
-  <!-- Title (split safely) -->
-  <text x="160" y="90" class="title">
-    Machine Learning Engineer |
-  </text>
-  <text x="160" y="130" class="title">
-    Research → Production Systems
-  </text>
+  <!-- Left accent bar with gradient fade -->
+  <rect x="0" y="28" width="3" height="224" rx="1.5" fill="url(#accentBar)"/>
 
-  <!-- Divider -->
-  <line x1="160" y1="150" x2="1140" y2="150" class="divider" />
+  <!-- ── Neural Network Visualization ── -->
+  <!-- All dim connections -->
+  <g stroke="#172032" stroke-width="1.1" opacity="0.9">
+    <!-- input(48,112) → hidden -->
+    <line x1="48" y1="112" x2="97" y2="86" /><line x1="48" y1="112" x2="97" y2="116"/>
+    <line x1="48" y1="112" x2="97" y2="146"/><line x1="48" y1="112" x2="97" y2="176"/>
+    <!-- input(48,140) → hidden -->
+    <line x1="48" y1="140" x2="97" y2="86" /><line x1="48" y1="140" x2="97" y2="116"/>
+    <line x1="48" y1="140" x2="97" y2="146"/><line x1="48" y1="140" x2="97" y2="176"/>
+    <!-- input(48,168) → hidden -->
+    <line x1="48" y1="168" x2="97" y2="86" /><line x1="48" y1="168" x2="97" y2="116"/>
+    <line x1="48" y1="168" x2="97" y2="146"/><line x1="48" y1="168" x2="97" y2="176"/>
+    <!-- hidden → output(146,116) -->
+    <line x1="97" y1="86"  x2="146" y2="116"/><line x1="97" y1="116" x2="146" y2="116"/>
+    <line x1="97" y1="146" x2="146" y2="116"/><line x1="97" y1="176" x2="146" y2="116"/>
+    <!-- hidden → output(146,164) -->
+    <line x1="97" y1="86"  x2="146" y2="164"/><line x1="97" y1="116" x2="146" y2="164"/>
+    <line x1="97" y1="146" x2="146" y2="164"/><line x1="97" y1="176" x2="146" y2="164"/>
+  </g>
 
-  <!-- Description -->
-  <text x="160" y="190" class="subtitle">
-    I design and build end-to-end systems where machine learning models move from
-  </text>
-  <text x="160" y="220" class="subtitle">
-    research to reliable, scalable production — balancing performance,
-  </text>
-  <text x="160" y="250" class="subtitle">
-    interpretability, and engineering constraints.
-  </text>
+  <!-- Active / highlighted path -->
+  <line x1="48" y1="140" x2="97" y2="116" stroke="#3b82f6" stroke-width="1.8" opacity="0.75" filter="url(#glow)"/>
+  <line x1="97" y1="116" x2="146" y2="116" stroke="#3b82f6" stroke-width="1.8" opacity="0.75" filter="url(#glow)"/>
+
+  <!-- Input nodes -->
+  <circle cx="48" cy="112" r="5.5" fill="#0a1120" stroke="#253a52" stroke-width="1.5"/>
+  <circle cx="48" cy="140" r="5.5" fill="#0a1120" stroke="#3b82f6" stroke-width="1.5" filter="url(#glow)"/>
+  <circle cx="48" cy="168" r="5.5" fill="#0a1120" stroke="#253a52" stroke-width="1.5"/>
+
+  <!-- Hidden nodes -->
+  <circle cx="97" cy="86"  r="5.5" fill="#0a1120" stroke="#253a52" stroke-width="1.5"/>
+  <circle cx="97" cy="116" r="5.5" fill="#0a1120" stroke="#3b82f6" stroke-width="1.5" filter="url(#glow)"/>
+  <circle cx="97" cy="146" r="5.5" fill="#0a1120" stroke="#253a52" stroke-width="1.5"/>
+  <circle cx="97" cy="176" r="5.5" fill="#0a1120" stroke="#253a52" stroke-width="1.5"/>
+
+  <!-- Output nodes -->
+  <circle cx="146" cy="116" r="6"   fill="#1a3a6e" stroke="#3b82f6" stroke-width="1.8" filter="url(#softglow)"/>
+  <circle cx="146" cy="164" r="5.5" fill="#0a1120" stroke="#253a52" stroke-width="1.5"/>
+
+  <!-- Separator between net and text -->
+  <line x1="164" y1="40" x2="164" y2="240" stroke="#1a2a3a" stroke-width="1"/>
+
+  <!-- ── Text Content ── -->
+  <!-- Name -->
+  <text x="184" y="97" class="name">Krish Soni</text>
+
+  <!-- Role + location -->
+  <text x="186" y="130" class="role">AI / ML Engineer  ·  Software Developer  ·  Gujarat, India</text>
+
+  <!-- Gradient divider -->
+  <rect x="184" y="150" width="820" height="1" rx="0.5" fill="url(#divGrad)"/>
+
+  <!-- Tech stack -->
+  <text x="184" y="182" class="stack">Python · TensorFlow · Scikit-Learn · NumPy · Pandas · Matplotlib · React · TypeScript · Flutter</text>
+
+  <!-- Tagline -->
+  <text x="184" y="214" class="tagline">Final-year Computer Engineering student · Building ML models and clean UIs · Always learning.</text>
+
+  <!-- Faint code snippet bottom-right -->
+  <text x="1148" y="228" class="codefg" text-anchor="end">model.fit(X_train, y_train)</text>
+  <text x="1148" y="244" class="codefg" text-anchor="end">acc = model.evaluate(X_test)</text>
+  <text x="1148" y="260" class="codefg" text-anchor="end">print(f"Accuracy: {acc:.4f}")</text>
 </svg>
