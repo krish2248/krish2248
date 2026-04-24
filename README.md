@@ -81,10 +81,10 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=krish2248&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
+<h3 align="center">
   <sub><i>"Always Learning."</i></sub>
-</p>
+</h3>
