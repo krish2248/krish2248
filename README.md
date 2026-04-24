@@ -2,6 +2,7 @@
 
 ### Connect
 
+<span align="left">
 <a href="https://sonikrish.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=100&id=111593&format=png&color=ffffff" width="40" height="40" alt="Portfolio" />
 </a>
@@ -33,6 +34,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="40" height="40" alt="YouTube" />
   </picture>
 </a>
+</span>
 
 ---
 
