@@ -86,5 +86,5 @@
 </p>
 
 <p align="center">
-  <sub><i>"Late to coding, yet ahead of the game."</i></sub>
+  <sub><i>"Always Learning."</i></sub>
 </p>
